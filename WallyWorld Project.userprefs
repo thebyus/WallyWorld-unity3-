@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\Game.js">
+    <Files>
+      <File FileName="Assets\Scripts\CoinScripts\Test.js" Line="23" Column="4" />
+      <File FileName="Assets\Scripts\Game\Game.js" Line="204" Column="3" />
+      <File FileName="Assets\Scripts\CoinScripts\Bomb -10.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TriggerScript\Trigger5.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall10SidetoSideTrigger.js" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\CoinScripts\Coin+1.js" Line="16" Column="30" />
+      <File FileName="Assets\Scripts\BridgeScripts\Bridge11RiseTrigger.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinScripts\Coin+3.js" Line="18" Column="24" />
+      <File FileName="Assets\Scripts\CoinScripts\Coin+2.js" Line="21" Column="17" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall4DownTrigger.js" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\LoseScript.js" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\BridgeScripts\Bridge17Trigger.js" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall1DownTrigger.js" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\BridgeScripts\Bridge2Trigger.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

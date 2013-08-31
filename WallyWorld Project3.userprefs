@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game\Game.js">
+    <Files>
+      <File FileName="Assets\Scripts\Game\Game.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall4DownTrigger.js" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall5aDownTrigger.js" Line="4" Column="30" />
+      <File FileName="Assets\Scripts\Destroy_Overlay.js" Line="6" Column="41" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall5SlideTrigger.js" Line="13" Column="4" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall27DownTrigger.js" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\DirectionsScript.js" Line="11" Column="21" />
+      <File FileName="Assets\Scripts\IntroScript.js" Line="12" Column="28" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall32FallTrigger.js" Line="8" Column="11" />
+      <File FileName="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall10SidetoSideTrigger.js" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\Goal_Star_Spin.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinScripts\CoinUp.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

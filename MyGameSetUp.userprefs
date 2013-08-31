@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CoinScript\Coin+1.js">
+    <Files>
+      <File FileName="Assets\Scripts\Game\Game.js" Line="269" Column="102" />
+      <File FileName="Assets\Scripts\CoinScript\Coin+1.js" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\Game\Wall4DownTrigger.js" Line="10" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

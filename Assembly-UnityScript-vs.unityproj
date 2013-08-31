@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{FB6981F3-D291-7159-FC97-F4B77CA025E8}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_5_6;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_WEBPLAYER;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity/Unity3.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity/Unity3.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Scripts\Bonus 20.js" />
+     <Compile Include="Assets\Scripts\BridgeDestroyScripts\BridgeDestroy10.js" />
+     <Compile Include="Assets\Scripts\BridgeDestroyScripts\BridgeDestroy5.js" />
+     <Compile Include="Assets\Scripts\BridgeMoveTest.js" />
+     <Compile Include="Assets\Scripts\BridgeScripts\Bridge11RiseTrigger.js" />
+     <Compile Include="Assets\Scripts\BridgeScripts\Bridge17Trigger.js" />
+     <Compile Include="Assets\Scripts\BridgeScripts\Bridge18Trigger.js" />
+     <Compile Include="Assets\Scripts\BridgeScripts\Bridge2Trigger.js" />
+     <Compile Include="Assets\Scripts\BridgeScripts\Bridge3Trigger.js" />
+     <Compile Include="Assets\Scripts\BridgeScripts\Bridge5Trigger.js" />
+     <Compile Include="Assets\Scripts\BridgeScripts\Bridge6Trigger.js" />
+     <Compile Include="Assets\Scripts\CoinScripts\Bomb -10.js" />
+     <Compile Include="Assets\Scripts\CoinScripts\Coin+1.js" />
+     <Compile Include="Assets\Scripts\CoinScripts\Coin+2.js" />
+     <Compile Include="Assets\Scripts\CoinScripts\Coin+3.js" />
+     <Compile Include="Assets\Scripts\CoinScripts\CoinUp.js" />
+     <Compile Include="Assets\Scripts\CoinScripts\Test.js" />
+     <Compile Include="Assets\Scripts\Destroy_Overlay.js" />
+     <Compile Include="Assets\Scripts\DirectionsScript.js" />
+     <Compile Include="Assets\Scripts\Game\Game.js" />
+     <Compile Include="Assets\Scripts\Goal_Star_Spin.js" />
+     <Compile Include="Assets\Scripts\IntroScript.js" />
+     <Compile Include="Assets\Scripts\LoseScript.js" />
+     <Compile Include="Assets\Scripts\Timer.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger1.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger10.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger12.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger13.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger14.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger16.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger17.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger2.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger20.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger21.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger22.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger23.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger24.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger25.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger26.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger27.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger28.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger29.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger3.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger30.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger31.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger32.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger5.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger7.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger8.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Trigger9.js" />
+     <Compile Include="Assets\Scripts\TriggerScript\Triggerwall.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_Level3\Wall301DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall10SidetoSideTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall14DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall16DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall17DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall1DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall22DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall27DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall31DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall32FallTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall3DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall4DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall5SlideTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall5aDownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall6DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall7DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall8DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WallScripts\WallDownTriggers_LevelX\Wall9DownTrigger.js" />
+     <Compile Include="Assets\Scripts\WinScript.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
